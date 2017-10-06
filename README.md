@@ -1,6 +1,6 @@
 # simplebar-rails
 
-simplebar-rails wraps the [SimpleBar](http://grsmto.github.io/simplebar/) library in a Rails
+simplebar-rails wraps the [SimpleBar](https://github.com/Grsmto/simplebar) library in a Rails
 engine for simple use with the asset pipeline provided by Rails 3.1 and higher.
 
 ## Installation
